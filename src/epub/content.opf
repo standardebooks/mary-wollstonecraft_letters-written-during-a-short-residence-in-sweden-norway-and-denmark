@@ -46,14 +46,15 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3529</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/letterswrittendu00wolluoft</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -61,22 +62,26 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mary-wollstonecraft_letters-written-during-a-short-residence-in-sweden-norway-and-denmark</meta>
 		<dc:creator id="author">Mary Wollstonecraft</dc:creator>
 		<meta property="file-as" refines="#author">Wollstonecraft, Mary</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mary_Wollstonecraft</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095613</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="editor">Henry Morley</dc:contributor>
+		<meta property="file-as" refines="#editor">Morley, Henry</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Henry_Morley</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n50006134</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">aui</meta>
+		<meta property="se:role" refines="#editor" scheme="marc:relators">edt</meta>
 		<dc:contributor id="artist">John Opie</dc:contributor>
 		<meta property="file-as" refines="#artist">Opie, John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Opie</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr91026286</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">David Price</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
