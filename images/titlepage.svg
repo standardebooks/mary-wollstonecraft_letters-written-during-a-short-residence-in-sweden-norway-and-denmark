@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 740">
+	<title>The titlepage for the Standard Ebooks edition of Letters Written During a Short Residence in Sweden, Norway, and Denmark, by Mary Wollstonecraft</title>
+	<style type="text/css">
+		text{
+			font-family: "League Spartan";
+			letter-spacing: 5px;
+			text-anchor: middle;
+		}
+
+		.title{
+			font-size: 93.56725311px;
+		}
+
+		.author{
+			font-size: 70.17543793px;
+		}
+	</style>
+	<text class="title" x="700" y="130">LETTERS</text>
+	<text class="title" x="700" y="230">WRITTEN DURING</text>
+	<text class="title" x="700" y="330">A SHORT RESIDENCE</text>
+	<text class="title" x="700" y="430">IN SWEDEN, NORWAY,</text>
+	<text class="title" x="700" y="530">AND DENMARK</text>
+	<text class="author" x="700" y="690">MARY WOLLSTONECRAFT</text>
+</svg>
