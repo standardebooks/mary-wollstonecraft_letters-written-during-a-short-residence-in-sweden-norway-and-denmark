@@ -48,14 +48,14 @@
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Mary Wollstonecraft’s account of her travels through Scandinavia.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In June 1795, &lt;a href="https://standardebooks.org/ebooks/mary-wollstonecraft"&gt;Mary Wollstonecraft&lt;/a&gt; embarked on a three-month trip around Sweden, Norway and Denmark, on undisclosed business at the request of her lover Gilbert Imlay. During the course of this voyage she wrote twenty-five letters to him, which were compiled the following year at the behest of her publisher into this volume. While the letters of course contain descriptions of the natural beauty of the places she visited and their habits and interests of the people she met, what is more apparent is Mary’s growing realisation that this journey for Imlay will not heal their relationship.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Letters Written During a Short Residence in Sweden, Norway, and Denmark&lt;/i&gt; was the last work of Mary Wollstonecraft’s published during her lifetime; she died two years later, shortly after the birth of her second child, &lt;a href="https://standardebooks.org/ebooks/mary-shelley"&gt;Mary Shelley&lt;/a&gt;. It follows the themes of her earlier works: a belief in reason’s ability to elevate people, the injustice of society’s oppression of women, and a spreading idea that commercialism does more to deprave than to enlighten Man.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3529</dc:source>
 		<dc:source>https://archive.org/details/letterswrittendu00wolluoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Letters_Written_During_a_Short_Residence_in_Sweden,_Norway,_and_Denmark</meta>
