@@ -70,8 +70,8 @@
 		<meta property="file-as" refines="#editor">Morley, Henry</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Henry_Morley</meta>
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n50006134</meta>
-		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">John Opie</dc:contributor>
 		<meta property="file-as" refines="#artist">Opie, John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Opie</meta>
