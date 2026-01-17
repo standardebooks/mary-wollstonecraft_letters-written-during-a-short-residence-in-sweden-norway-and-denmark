@@ -16,10 +16,10 @@
 			font-size: 70.17543793px;
 		}
 	</style>
-	<text class="title" x="700" y="130">LETTERS</text>
-	<text class="title" x="700" y="230">WRITTEN DURING</text>
-	<text class="title" x="700" y="330">A SHORT RESIDENCE</text>
-	<text class="title" x="700" y="430">IN SWEDEN, NORWAY,</text>
+	<text class="title" x="700" y="130">LETTERS WRITTEN</text>
+	<text class="title" x="700" y="230">DURING A SHORT</text>
+	<text class="title" x="700" y="330">RESIDENCE IN</text>
+	<text class="title" x="700" y="430">SWEDEN, NORWAY,</text>
 	<text class="title" x="700" y="530">AND DENMARK</text>
 	<text class="author" x="700" y="690">MARY WOLLSTONECRAFT</text>
 </svg>
