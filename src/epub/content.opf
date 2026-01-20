@@ -57,7 +57,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3529</dc:source>
 		<dc:source>https://archive.org/details/letterswrittendu00wolluoft</dc:source>
-		<meta property="se:word-count">50611</meta>
+		<meta property="se:word-count">50516</meta>
 		<meta property="se:reading-ease.flesch">50.6</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Letters_Written_During_a_Short_Residence_in_Sweden,_Norway,_and_Denmark</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mary-wollstonecraft_letters-written-during-a-short-residence-in-sweden-norway-and-denmark</meta>
