@@ -50,7 +50,7 @@
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:abstract>Mary Wollstonecraft’s account of her travels through Scandinavia.</dc:abstract>
+		<meta property="schema:abstract">Mary Wollstonecraft’s account of her travels through Scandinavia.</meta>
 		<dc:description>
 			&lt;p&gt;In June 1795, &lt;a href="https://standardebooks.org/ebooks/mary-wollstonecraft"&gt;Mary Wollstonecraft&lt;/a&gt; embarked on a three-month trip around Sweden, Norway, and Denmark, on undisclosed business at the request of her lover Gilbert Imlay. During the course of this voyage she wrote twenty-five letters to him, which were compiled the following year at the behest of her publisher into this volume. As a travelogue, the letters of course contain descriptions of the natural beauty of the places she visited and the habits and interests of the people she met; but what is more apparent is Mary’s growing realization that this journey she has undertaken for Imlay ultimately won’t heal their relationship.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Letters Written During a Short Residence in Sweden, Norway, and Denmark&lt;/i&gt; was the last work of Mary Wollstonecraft’s published during her lifetime; she died two years later, shortly after the birth of her second child, &lt;a href="https://standardebooks.org/ebooks/mary-shelley"&gt;Mary Shelley&lt;/a&gt;. It follows the themes of her earlier works: a belief in reason’s ability to elevate people, the injustice of society’s oppression of women, and a spreading idea that commercialism does more to deprave than to enlighten humankind.&lt;/p&gt;
