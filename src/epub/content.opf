@@ -30,12 +30,12 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Letters Written During a Short Residence in Sweden, Norway, and Denmark</dc:title>
 		<meta property="file-as" refines="#title">Letters Written During a Short Residence in Sweden, Norway, and Denmark</meta>
-		<dc:subject id="subject-1">Wollstonecraft, Mary, 1759-1797 -- Correspondence</dc:subject>
-		<dc:subject id="subject-2">Imlay, Gilbert, 1754?-1828? -- Correspondence</dc:subject>
-		<dc:subject id="subject-3">Authors, English -- 18th century -- Correspondence</dc:subject>
-		<dc:subject id="subject-4">Feminists -- Great Britain -- Correspondence</dc:subject>
-		<dc:subject id="subject-5">Wollstonecraft, Mary, 1759-1797 -- Travel -- Scandinavia</dc:subject>
-		<dc:subject id="subject-6">Scandinavia -- Description and travel -- Early works to 1800</dc:subject>
+		<dc:subject id="subject-1">Wollstonecraft, Mary, 1759-1797--Correspondence</dc:subject>
+		<dc:subject id="subject-2">Imlay, Gilbert, 1754?-1828?--Correspondence</dc:subject>
+		<dc:subject id="subject-3">Authors, English--18th century--Correspondence</dc:subject>
+		<dc:subject id="subject-4">Feminists--Great Britain--Correspondence</dc:subject>
+		<dc:subject id="subject-5">Wollstonecraft, Mary, 1759-1797--Travel--Scandinavia</dc:subject>
+		<dc:subject id="subject-6">Scandinavia--Description and travel--Early works to 1800</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
