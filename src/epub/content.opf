@@ -60,7 +60,7 @@
 		<dc:source>https://archive.org/details/letterswrittendu00wolluoft</dc:source>
 		<meta property="schema:wordCount">50516</meta>
 		<meta property="schema:educationalLevel">50.6</meta>
-		<link href="https://en.wikipedia.org/wiki/Letters_Written_During_a_Short_Residence_in_Sweden,_Norway,_and_Denmark" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Letters_Written_in_Sweden,_Norway,_and_Denmark" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/mary-wollstonecraft_letters-written-during-a-short-residence-in-sweden-norway-and-denmark" refines="#vcs-repository" rel="schema:codeRepository"/>
